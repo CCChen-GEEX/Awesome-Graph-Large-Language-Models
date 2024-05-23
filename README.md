@@ -7,7 +7,7 @@
 | Year | Title                                                  | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------ | :---: | :----------------------------------------------------------: | :--: |
 | 2023 | **An Overview of Advanced Deep Graph Node Clustering** | TCSS  | [Link](https://ieeexplore.ieee.org/abstract/document/10049408) |  -   |
-|      |                                                        |       |                                                              |      |
+| 2024 | **GraphGPT: Graph Instruction Tuning for Large Language Models** |       |                                                              |      |
 |      |                                                        |       |                                                              |      |
 |      |                                                        |       |                                                              |      |
 |      |                                                        |       |                                                              |      |
