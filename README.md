@@ -17,7 +17,7 @@
 
 
 
-# LLM for Graph
+# Graph structure for LLM model
 
 ## Important Survey Papers
 
