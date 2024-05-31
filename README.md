@@ -17,7 +17,8 @@
 
 
 
-# Graph structure for LLM model
+# LLM aligns graph structure
+
 
 ## Important Survey Papers
 
