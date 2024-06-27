@@ -1,4 +1,4 @@
-#  LLM for Graph Clustering
+#  LLM for Graph Learning
 
 
 
