@@ -25,3 +25,11 @@
 | 2024 | **Position: Graph Foundation Models Are Already Here**                                    | [Link](https://openreview.net/pdf?id=Edz0QXKKAo)                                                                                      | [Code](-)                                            |
 | 2024 | **LLaGA: Large Language and Graph Assistant**                                             | [Link](https://arxiv.org/pdf/2402.08170)                                                                                              | [Code](https://github.com/VITA-Group/LLaGA)          |
 | 2024 | **Graph-enhanced Large Language Models in Asynchronous Plan Reasoning**                   | [Link](https://arxiv.org/pdf/2402.02805)                                                                                              | [Code](https://github.com/fangru-lin/graph-llm-asynchow-plan) |
+
+## WWW
+
+| Year | Title                                                                                     |                            Paper                                                                                                      | Code                                                 |
+| ---- | ------------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+| 2024 | **Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search**          | [Link](https://openreview.net/pdf?id=fuAZbKE5Tn)                                                                                      | [Code](https://github.com/wsh-rucgl/SGR/)           |
+| 2024 | **High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text Attributed Graphs** | [Link](https://arxiv.org/pdf/2402.16240)                                                               | [Code](-)           |
+| 2024 | **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective** | [Link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645620)                                | [Code](-)           |
