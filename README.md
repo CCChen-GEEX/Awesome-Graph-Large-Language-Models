@@ -33,3 +33,10 @@
 | 2024 | **Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search**          | [Link](https://openreview.net/pdf?id=fuAZbKE5Tn)                                                                                      | [Code](https://github.com/wsh-rucgl/SGR/)           |
 | 2024 | **High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text Attributed Graphs** | [Link](https://arxiv.org/pdf/2402.16240)                                                               | [Code](-)           |
 | 2024 | **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective** | [Link](https://dl.acm.org/doi/pdf/10.1145/3589334.3645620)                                | [Code](-)           |
+
+
+## SIGIR
+
+| Year | Title                                                                                     |                            Paper                                                                                                      | Code                                                 |
+| ---- | ------------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+| 2024 | **GraphGPT: Graph Instruction Tuning for Large Language Models**                          | [Link](https://arxiv.org/pdf/2310.13023)                                                                                              | [Code]([https://github.com/wsh-rucgl/SGR/](https://github.com/HKUDS/GraphGPT)) |
